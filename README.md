@@ -2,4 +2,4 @@
 # fastcampus-jenkins
 
 
-닷
+닷똣
